@@ -4,7 +4,7 @@ accordingly to contribute to Hacktoberfest to earn swags and learn
 something about the open source contribution.
 
 ## Step 1 
-Create a account on Github
+Create a account on Github.
 https://github.com
 ![screenshot from 2018-10-03 01-55-18](https://user-images.githubusercontent.com/29003047/46375174-58228080-c6b0-11e8-9735-82645c2801f4.png)
 
@@ -22,24 +22,24 @@ https://github.com/creative-computing-society/creative-computing-society.github.
 
 
 ## Step 4 
-Star this repository
+Star this repository.
 ![screenshot from 2018-10-03 02-12-11](https://user-images.githubusercontent.com/29003047/46376039-9751d100-c6b2-11e8-974d-e1c2a36d84b5.png)
 
 ## Step 5 
-Fork this repository on your profile
+Fork this repository on your profile.
 ![screenshot from 2018-10-03 02-12-11](https://user-images.githubusercontent.com/29003047/46376039-9751d100-c6b2-11e8-974d-e1c2a36d84b5.png)
 
 
 ## Step 6 
 Open Terminal and type in these commands
-cd Desktop
+```cd Desktop```
 git clone (and paste the url which you obtained from clicking on "Clone or download" option)
 cd creative-computing-society.github.io
 ![screenshot from 2018-10-03 02-21-16](https://user-images.githubusercontent.com/29003047/46376427-99685f80-c6b3-11e8-95bb-17a0e06453b1.png)
 
 
 ## Step 7 
-Create a new branch in the cloned repository and name it on your name
+Create a new branch in the cloned repository and name it on your name.
 git checkout -b [name_of_your_new_branch]
 
 ## Step 8 
